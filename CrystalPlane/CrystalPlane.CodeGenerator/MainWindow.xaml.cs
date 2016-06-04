@@ -22,7 +22,8 @@ namespace CrystalPlane.CodeGenerator
     {
         public MainWindow()
         {
-            InitializeComponent();
+            //InitializeComponent();
+            Console.WriteLine("hello Console");
         }
     }
 }
